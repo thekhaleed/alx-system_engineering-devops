@@ -1,4 +1,2 @@
 #!/bin/bash
-
-directory =$(pwd)
-echo "$directory"
+pwd
